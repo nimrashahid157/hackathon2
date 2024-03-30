@@ -1,0 +1,120 @@
+body {
+    font-family: sans-serif;
+    background-color: #F5F5F5;
+}
+
+.nav {
+    background-color: blueviolet;
+    padding: 1px;
+    margin-top: -10px;
+    height: 50px;
+    z-index: +1;
+}
+
+.left {
+    color: white;
+    padding-left: 60px;
+
+}
+
+.right {
+    float: right;
+    margin-top: -40px;
+    padding-left: 30px;
+}
+
+.login {
+    color: white;
+    text-decoration: none;
+    padding-right: 100px;
+
+}
+
+.signup {
+    padding-left: 60px;
+    background-color: white;
+    margin-top: -20px;
+    padding-bottom: 30px;
+    position: relative;
+    z-index: -1;
+    padding-top: 25px;
+    height: 60px;
+}   
+
+.profile {
+    padding-right: 50px;
+    text-decoration: none;
+    color: white;
+    }
+
+
+
+    .container {
+        height: 60vh;
+        margin-top: 60px;
+        padding-left: 160px;
+    
+    }
+
+.box {
+    width: 500px;
+  height: 800px;
+  background-color: white;
+  box-shadow: 0.5px 1px 3px rgba(0, 0, 0, 0.5);
+  margin: 0;
+  padding-right: 280px;
+  border-radius: 10px;
+}
+
+.image {
+padding-left: 50px;
+padding-top: 60px;
+
+}
+
+.image2 {
+    padding-left: 60px;
+    padding-top: 30px;
+    
+}
+
+
+.form-group {
+    padding-left: 60px;
+    padding-top: 15px;
+    
+  } 
+   
+ 
+
+#password {
+    padding: 6px 20px;
+    font-size: medium;
+    columns: gray;
+    border-radius: 10px;
+}
+
+.secondbox input:hover {
+    border-color: blueviolet;
+    box-shadow: 0 4px 8px rgba(94, 53, 177, 0.4);
+  
+  }
+
+
+  .btn {
+    background-color: blueviolet;
+    color: white;
+  text-decoration: none;
+  padding: 7px 30px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: medium;
+  border: blueviolet;
+  }
+
+
+
+
+
+
+
